@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:smart_byte/models/pantry_item.dart';
 import 'package:smart_byte/pantry_screen.dart';
-
+//comment só para o commit n ter todos os ficheiros 
 void main() {
   // Test 1: Search for Ingredients and Ensure Correct Display
   testWidgets('Search returns matching ingredients with correct expiration information and order', (WidgetTester tester) async {
